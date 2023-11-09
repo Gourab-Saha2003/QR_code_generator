@@ -58,7 +58,7 @@ body {
 #imgbox.showimg {
   max-height: 205px;
   margin: 10px auto;
-  border: 1px solid #c7c6c6;
+  border: 1px solid #d0cece;
 }
 .error {
   animation: shake 0.1s linear 10;
